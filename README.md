@@ -2,7 +2,7 @@
 
 A web-based Society Management System developed for the Java Fullstack course. The application features a Spring Boot REST API backend and a Next.js frontend, backed by MariaDB using Spring Data JPA.
 
-Team: Sachin, Yash, Akash, and Prince.
+Team: Sachin, Yash, Akash yadav, and Prince .
 
 ---
 
